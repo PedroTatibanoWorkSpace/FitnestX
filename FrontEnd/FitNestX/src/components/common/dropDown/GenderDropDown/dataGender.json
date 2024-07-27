@@ -1,0 +1,7 @@
+[
+    { "id": "masculino", "label": "Masculino" },
+    { "id": "feminino", "label": "Feminino" },
+    { "id": "naoBinario", "label": "Não-binario" },
+    { "id": "prefiroNaoDizer", "label": "Prefiro não dizer" }
+  ]
+  
